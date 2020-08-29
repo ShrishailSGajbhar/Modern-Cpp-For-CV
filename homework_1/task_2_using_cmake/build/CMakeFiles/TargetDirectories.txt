@@ -1,0 +1,4 @@
+/home/shrishail/Desktop/Modern C++/2020/cpp-homeworks/homework_1/task_2_using_cmake/build/CMakeFiles/rebuild_cache.dir
+/home/shrishail/Desktop/Modern C++/2020/cpp-homeworks/homework_1/task_2_using_cmake/build/CMakeFiles/main.dir
+/home/shrishail/Desktop/Modern C++/2020/cpp-homeworks/homework_1/task_2_using_cmake/build/CMakeFiles/edit_cache.dir
+/home/shrishail/Desktop/Modern C++/2020/cpp-homeworks/homework_1/task_2_using_cmake/build/CMakeFiles/ipb_arithmetic.dir

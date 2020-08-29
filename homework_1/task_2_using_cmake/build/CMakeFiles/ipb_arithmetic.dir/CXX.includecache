@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/ipb_arithmetic/subtract.hpp
+
+../include/ipb_arithmetic/sum.hpp
+
+/home/shrishail/Desktop/Modern C++/2020/cpp-homeworks/homework_1/task_2_using_cmake/src/subtract.cpp
+ipb_arithmetic/subtract.hpp
+/home/shrishail/Desktop/Modern C++/2020/cpp-homeworks/homework_1/task_2_using_cmake/src/ipb_arithmetic/subtract.hpp
+
+/home/shrishail/Desktop/Modern C++/2020/cpp-homeworks/homework_1/task_2_using_cmake/src/sum.cpp
+ipb_arithmetic/sum.hpp
+/home/shrishail/Desktop/Modern C++/2020/cpp-homeworks/homework_1/task_2_using_cmake/src/ipb_arithmetic/sum.hpp
+
