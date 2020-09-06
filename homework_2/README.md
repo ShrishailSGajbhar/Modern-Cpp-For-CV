@@ -6,6 +6,6 @@ This repo contains 3 folders:
 1) task_1 
 2) task_2
 
-Both the folders contain main.cpp as the main file. To get the output run:<br/>
-
-c++ -std=c++17 main.cpp -o task_<n> at the terminal.
+Both the folders contain main.cpp as the main file. To get the output of specific task, run following commands at the terminal:<br/>
+* c++ -std=c++17 main.cpp -o task_1 to get the output of task_1
+* c++ -std=c++17 main.cpp -o task_2 to get the output of task_2
