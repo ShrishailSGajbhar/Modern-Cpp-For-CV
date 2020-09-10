@@ -1,0 +1,5 @@
+/home/shrishail/Desktop/Modern C++/2020/week_3/homework_3/build/CMakeFiles/rebuild_cache.dir
+/home/shrishail/Desktop/Modern C++/2020/week_3/homework_3/build/CMakeFiles/edit_cache.dir
+/home/shrishail/Desktop/Modern C++/2020/week_3/homework_3/build/CMakeFiles/create_image_browser.dir
+/home/shrishail/Desktop/Modern C++/2020/week_3/homework_3/build/CMakeFiles/image_browser.dir
+/home/shrishail/Desktop/Modern C++/2020/week_3/homework_3/build/CMakeFiles/html_writer.dir

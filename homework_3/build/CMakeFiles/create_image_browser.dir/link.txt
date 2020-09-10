@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/create_image_browser.dir/src/create_image_browser.cpp.o  -o create_image_browser  libhtml_writer.a libimage_browser.a libhtml_writer.a libimage_browser.a 

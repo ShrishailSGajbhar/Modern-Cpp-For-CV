@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/homework_3.h
+html_writer.hpp
+../include/html_writer.hpp
+image_browser.hpp
+../include/image_browser.hpp
+
+../include/html_writer.hpp
+string
+-
+
+../include/image_browser.hpp
+array
+-
+string
+-
+tuple
+-
+vector
+-
+
+/home/shrishail/Desktop/Modern C++/2020/week_3/homework_3/src/create_image_browser.cpp
+homework_3.h
+/home/shrishail/Desktop/Modern C++/2020/week_3/homework_3/src/homework_3.h
+iostream
+-
+string
+-
+
