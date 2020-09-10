@@ -1,4 +1,4 @@
-This repository provides the solution to questions in [homework_3.pdf](https://www.ipb.uni-bonn.de/html/teaching/modern-cpp/homeworks/homework_3.pdf) of the course ["Modern C++ for Computer Vision"](https://www.ipb.uni-bonn.de/teaching/cpp-2020) offered by university of Bonn and instructed by Ignacio Vizzo.
+This repository provides the solution to questions in [homework_3.pdf](https://www.ipb.uni-bonn.de/html/teaching/modern-cpp/homeworks/homework_3.pdf) of the course ["Modern C++ for Computer Vision"](https://www.ipb.uni-bonn.de/teaching/cpp-2020).
 
 To check the output of this repository: 
 * clone this reposotory locally to your computer.
