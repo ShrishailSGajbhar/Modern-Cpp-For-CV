@@ -4,8 +4,8 @@ To check the output of this repository:
 * clone this reposotory locally to your computer.
 * open the terminal and remove the build folder using **rm -r build**
 * Now type the following lines at the terminal:
-  * mkdir build && cd build && cmake ..
-  * make
-  * ./create_image_browser > ../web_app/test.html
-  * cd ..
-  * xdg-open web_app/test.html
+  * **mkdir build && cd build && cmake ..**
+  * **make**
+  * **./create_image_browser > ../web_app/test.html**
+  * **cd ..**
+  * **xdg-open web_app/test.html**
