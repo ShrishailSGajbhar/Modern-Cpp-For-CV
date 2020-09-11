@@ -21,5 +21,5 @@ Run **sh run.sh** at the terminal to build the target. <br />
 To check the output, **cd build/** and run **./main** at the terminal.
 
 You should get the output of the main (executable) file as:
-The sum of 1+2 = 3 <b/>
+The sum of 1+2 = 3 <b />
 The sub of 1-2 = -1
