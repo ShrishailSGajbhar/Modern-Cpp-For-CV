@@ -20,6 +20,6 @@ Folder task_2_using_cmake uses *CMake* and *Make* tools to generate a build syst
 Run **sh run.sh** at the terminal to build the target. <br />
 To check the output, **cd build/** and run **./main** at the terminal.
 
-You should get the output of the main (executable) file as:
+You should get the output of the main (executable) file as:<br />
 The sum of 1+2 = 3 <br/>
 The sub of 1-2 = -1
